@@ -1,0 +1,42 @@
+{
+  "conditionals.pl": {
+    "content": "Warning: Threshold exceeded!\n",
+    "timestamp": 1777241619
+  },
+  "hashes.pl": {
+    "content": "The voltage at Bus2 is: 345kV\n",
+    "timestamp": 1777241619
+  },
+  "regex_parser.pl": {
+    "timestamp": 1777241619,
+    "content": "Extracted Error ID: 404\nCorrected Line: ERROR_CODE: 500 at 12:00PM\n"
+  },
+  "oo_station.pl": {
+    "timestamp": 1777241619,
+    "content": "Station: Millstone, Output: 2100MW\n"
+  },
+  "math_ops.pl": {
+    "content": "Sum: 35\nProduct: 250\nComplex Result: 62.5\n",
+    "timestamp": 1777241619
+  },
+  "hello_world.pl": {
+    "content": "Hello, ISO New England!\nPerl is ready for modernization.\n",
+    "timestamp": 1777241619
+  },
+  "array_iteration.pl": {
+    "timestamp": 1777241619,
+    "content": "Processing Zone: NEMA\nProcessing Zone: WCMA\nProcessing Zone: SEMA\nProcessing Zone: RI\nProcessing Zone: CT\n"
+  },
+  "subroutines.pl": {
+    "timestamp": 1777241619,
+    "content": "Calculated Load: 1575 MW\n"
+  },
+  "file_write.pl": {
+    "timestamp": 1777241619,
+    "content": "Data written to output_log.txt\n"
+  },
+  "file_read.pl": {
+    "content": "Read from file: Log Entry: System Check Passed\nRead from file: Status: Operational\n",
+    "timestamp": 1777241619
+  }
+}
