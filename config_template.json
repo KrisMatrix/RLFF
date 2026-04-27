@@ -1,0 +1,7 @@
+{
+    "GEMINI_API_KEY": "YOUR_GEMINI_KEY",
+    "MODEL_NAME": "gemini-2.0-flash",
+    "PERL_CODEBASE": "perl_codebase",
+    "PYTHON_CODEBASE": "python_codebase",
+    "GROUND_TRUTH_FILE": "ground_truth.json"
+}
